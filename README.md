@@ -1,2 +1,2 @@
 # Pythagorean-Triple-Checker
-Checks whether integers given make a Pythagorean Triple
+Checks whether sides of a triangle given make a Pythagorean Triple
